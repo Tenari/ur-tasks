@@ -1,0 +1,11 @@
+:~  
+    title+'Tasks'
+    info+'A space-based todo-list primarily for recurring tasks'
+    color+0xce.bef0
+    base+'tasks'
+    site+/apps/tasks
+    version+[0 1 1]
+    website+'https://github.com/Tenari/tasks'
+    license+'MIT'
+    image+'https://raw.githubusercontent.com/Tenari/tasks/master/ui/assets/tile.svg'
+==
